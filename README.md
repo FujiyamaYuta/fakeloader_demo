@@ -1,19 +1,19 @@
 ## ローディング何使ってる？
 
-昨年末からWebアプリケーションを作成していて、ローデイングが必要になり、JQueryで実装していたのですがあまりしっくりこずに、悩んでいたことろfakeloader.jsというライブラリがとても良かったので共有したいと思います。
+昨年末からWebアプリケーションを作成していて、ローデイングが必要になり、JQueryで実装していたのですがあまりしっくりこずに、悩んでいたことろfakeLoader.jsというライブラリがとても良かったので共有したいと思います。
 
-## fakeloader.jsの概要
-以下のjsファイルをインストールして、読み込ませて実装します。
+## fakeLoader.jsの概要
+以下のjsファイルとcssファイルをインストールして、読み込ませて実装します。
 
 * fakeLoader.css
 * fakeLoader.min.js or fakeLoader.js
 
 #### インストール
-[fakeloader.js オフィシャルページ](http://joaopereirawd.github.io/fakeLoader.js/)
+[fakeLoader.js オフィシャルページ](http://joaopereirawd.github.io/fakeLoader.js/)
 
-[ソースインストール](https://github.com/joaopereirawd/fakeLoader.js)
+[fakeLoader.min.jsインストール](https://github.com/joaopereirawd/fakeLoader.js)
 
-## fakeloader.jsデモ
+## fakeLoader.js実装・デモ
 ![ローディング.gif](https://qiita-image-store.s3.amazonaws.com/0/147291/da531685-655f-67ac-574b-756ee87fad63.gif)
 
 ![ローディング_1.gif](https://qiita-image-store.s3.amazonaws.com/0/147291/67d30dee-9848-db5f-43e8-04163cbb0cae.gif)
